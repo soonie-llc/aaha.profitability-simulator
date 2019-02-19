@@ -9,7 +9,7 @@
 <p align="center">
   Profitability Simulator, a simulator for calculating profitability for hospitals.
   <br>
-  <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
+  <a href="http://aaha-profitability-sim.azurewebsites.net/ProfitabilitySimulator.html"><strong>-- Run Demo --</strong></a>
   <br>
 </p>
 
