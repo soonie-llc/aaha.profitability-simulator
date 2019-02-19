@@ -20,7 +20,7 @@
 
 ## Quickstart:
 - [Download the latest release](https://github.com/soonie-llc/aaha.profitability-simulator) of materialize directly from GitHub. ([Alph](https://github.com/soonie-llc/aaha.profitability-simulator))
-- Clone the repo: `git clone https://github.com/soonie-llc/aaha.profitability-simulator/materialize.git` (Beta: `git clone -b v1-dev https://github.com/soonie-llc/aaha.profitability-simulator/materialize.git`)
+- Clone the repo: `git clone https://github.com/soonie-llc/aaha.profitability-simulator.git` (Beta: `git clone -b v1-dev https://github.com/soonie-llc/aaha.profitability-simulator.git`)
 
 ## Supported Browsers:
 Materialize is compatible with:
